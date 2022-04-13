@@ -21,6 +21,9 @@ As for the next step will design a Charge pump as shown at the fig 3 for up sign
  
 fig 3
 
+
+![image](https://user-images.githubusercontent.com/67355283/163259224-9c886215-c274-4dae-86e2-ec99eeecc33a.png)
+
  
 fig4
 

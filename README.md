@@ -5,6 +5,7 @@ As first step we start desging a PLL clock byb using  Google-Skywater 130nm node
 
 We will design this PLL by starting dsigning a Phase Freqency Detector , the simulation is shown at the fig 1 for up signal and down signal at fig 2 simulated with ngspice
 
+![image](https://user-images.githubusercontent.com/67355283/163258394-fe32b510-f768-4d3f-bcc7-3bb8883da135.png)
 
  
 fig 1

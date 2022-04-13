@@ -46,6 +46,9 @@ Frequency Divider
  
 Phase Frequency Detector
 
+
+![image](https://user-images.githubusercontent.com/67355283/163259962-9b46a119-7ac5-40f5-a893-62b3611dc236.png)
+
  
 Mux
 

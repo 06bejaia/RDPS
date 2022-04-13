@@ -16,6 +16,8 @@ fig 2
 
 As for the next step will design a Charge pump as shown at the fig 3 for up signal and fig 4 for down signal
 
+![image](https://user-images.githubusercontent.com/67355283/163259101-efecef59-f641-4cb5-9203-c54ed5c12c6b.png)
+
  
 fig 3
 

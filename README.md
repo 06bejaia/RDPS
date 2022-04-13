@@ -73,6 +73,9 @@ Voltage Controlled Oscillator
 
 After layinout each phase for each PLL , now will combine all layout to finaly be shown as bellow:
 
+
+![image](https://user-images.githubusercontent.com/67355283/163260592-e1e805a8-e087-4718-90f1-cd78ef8f8ab0.png)
+
  
 
 

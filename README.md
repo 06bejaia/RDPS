@@ -59,6 +59,9 @@ Mux
 Charge Pump
 
 
+![image](https://user-images.githubusercontent.com/67355283/163260260-842e908a-6ffe-4a42-85f1-9efcb281b3cd.png)
+
+
  
 
 Voltage Controlled Oscillator

@@ -31,6 +31,9 @@ As for finishing the PLL loop we will design a frequency divider
 
 as shown fig 5
 
+
+![image](https://user-images.githubusercontent.com/67355283/163259443-48659111-87f6-4619-aea3-b2dcc02ff700.png)
+
  
 fig 5
 

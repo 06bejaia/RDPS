@@ -10,7 +10,7 @@ We will design this PLL by starting dsigning a Phase Freqency Detector , the sim
  
 fig 1
 
- 
+ ![image](https://user-images.githubusercontent.com/67355283/163258942-15a8e1be-91c3-408d-9e7c-616cfe426cc0.png)
 fig 2
 
 

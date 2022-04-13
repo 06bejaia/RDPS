@@ -41,6 +41,8 @@ fig 5
 
 Frequency Divider
 
+![image](https://user-images.githubusercontent.com/67355283/163259856-508f04c7-7645-48de-a37b-fa23d08f83f4.png)
+
  
 Phase Frequency Detector
 

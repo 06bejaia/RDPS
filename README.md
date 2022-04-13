@@ -3,3 +3,62 @@ This project consist on designing an SoC from scratch
 
 As first step we start desging a PLL clock byb using  Google-Skywater 130nm node.
 
+We will design this PLL by starting dsigning a Phase Freqency Detector , the simulation is shown at the fig 1 for up signal and down signal at fig 2 simulated with ngspice
+
+
+ 
+fig 1
+
+ 
+fig 2
+
+
+As for the next step will design a Charge pump as shown at the fig 3 for up signal and fig 4 for down signal
+
+ 
+fig 3
+
+ 
+fig4
+
+As for finishing the PLL loop we will design a frequency divider
+
+as shown fig 5
+
+ 
+fig 5
+
+ after finshing the desing and the testing we move to the layout for each phase :
+
+Frequency Divider
+
+ 
+Phase Frequency Detector
+
+ 
+Mux
+
+ 
+
+Charge Pump
+
+
+ 
+
+Voltage Controlled Oscillator
+
+ 
+
+After layinout each phase for each PLL , now will combine all layout to finaly be shown as bellow:
+
+ 
+
+
+
+
+
+
+
+
+
+

@@ -65,6 +65,7 @@ Charge Pump
  
 
 Voltage Controlled Oscillator
+
 ![image](https://user-images.githubusercontent.com/67355283/163260377-1492c22d-552a-4632-93a3-c43ae525b38b.png)
 
 

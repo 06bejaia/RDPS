@@ -52,6 +52,8 @@ Phase Frequency Detector
  
 Mux
 
+![image](https://user-images.githubusercontent.com/67355283/163260069-2abc665b-c20d-41cf-86d0-6001ccacfd03.png)
+
  
 
 Charge Pump
